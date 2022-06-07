@@ -6,8 +6,7 @@ I have downloaded the data set from Kaggle and other resources.
 
 Projects:
 1)Credit card fraud detection:
--->Built models using classification algorithms, such as Logistic Regression, SVC, Decision Tree, and Random Forest.
--->Used sklearn pipeline module.
+-->Built classification model using Logistic regression.
 
 2)Car price prediction:
 -->Used Linear regression algorithm to build a regression model.
@@ -17,7 +16,7 @@ Projects:
 -->Used GridSearchCV to Hypertune the parameters.
 
 4)Salary Prediction (If it is <=50K or >50K):
--->Model built using Logistic Regression, SVC, Naive Bayes, Random Forest, Decision Tree.
+-->Model built using Logistic Regression, SVC, Random Forest, Decision Tree.
 -->Hypertuned parameters using GridSearchCV
 
 5)Advertisement:
